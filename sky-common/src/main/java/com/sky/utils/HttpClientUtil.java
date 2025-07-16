@@ -25,6 +25,7 @@ import java.util.Map;
  */
 public class HttpClientUtil {
 
+    final static int TIMEOUT = 1000;
     static final  int TIMEOUT_MSEC = 5 * 1000;
 
     /**
